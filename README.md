@@ -1,4 +1,4 @@
-## Hi 👋 I'm Erta Tema
+# Hi 👋 I'm Erta Tema
 
 <!--
 **etema23/etema23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,15 +6,20 @@
 Here are some ideas to get you started:
 
 - ⚽ I'm currently working on **FIFA 2026 World Cup Predictor** (Full-stack ML application)
-- 🌱 I’m currently learning **Advanced System Design and Cloud Architecture**
+- 🌱 I'm always learning **new frameworks and diving deeper into system design and cloud architecture**.
 - 💬 Ask me about **coding (duh), books, volleyball, and matcha**
 - 📫 How to reach me: [ertatema7@gmail.com](mailto:ertatema7@gmail.com)
 
+## Fun Facts:
+- Into strategy and games like Catan, Jeopardy!, and Wordle.
+- I love playing volleyball
+- I just finished **Attack on Titan**
+- Love Travelling (Tell me your must go places)
 
-### Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erta-tema-b980332ab)
 
-### Languages and Tools:
+## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,4 +31,4 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-Clean and fresh. Ready to update your GitHub?
+
